@@ -8,7 +8,7 @@ Ajout de 4 types d’opacité pour le background (assets\img)
 3 polices d'écriture sont utilisé dans ce package
 
 
-## Code Samples
+## Preview
 
 > Voici a quoi ressemble le projet initial puis sur la droite la nouvelle version :
 ![screenshot](https://i.ibb.co/GRf4ppm/Carte-identite.png)
