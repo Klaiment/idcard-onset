@@ -11,6 +11,8 @@ Ajout de 4 type d’opacité pour le background (assets\img)
 ## Code Samples
 
 > Voici a quoi ressemble le projet initial puis sur la droite la nouvelle version :
+
+![screenshot](https://i.ibb.co/GRf4ppm/Carte-identite.png)
 ![screenshot](https://i.ibb.co/mG5nmNW/new-CNI.png)
 
 ## Installation
