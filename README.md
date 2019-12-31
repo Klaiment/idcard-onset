@@ -1,11 +1,11 @@
-# Carte D'IdentitÃ© Onset
+# Carte D'Identité Onset
 
 ## Introduction
 
 >Modification du script original https://github.com/frederic2ec/onsetrp/tree/master/idcard
-Modification du css en majoritÃ©.
-Ajout de 4 types dâ€™opacitÃ© pour le background (assets\img)
-3 polices d'Ã©criture sont utilisÃ© dans ce package
+Modification du css en majorité.
+Ajout de 4 types d’opacité pour le background (assets\img)
+3 polices d'écriture sont utilisé dans ce package
 
 
 ## Preview
@@ -16,7 +16,7 @@ Ajout de 4 types dâ€™opacitÃ© pour le background (assets\img)
 
 ## Installation
 
-> Clonez le dÃ©pÃ´t  et balancez le dans votre dossier serveur.
+> Clonez le dépôt  et balancez le dans votre dossier serveur.
 si vous utilisez la base : https://github.com/frederic2ec/onsetrp
 Collez ca dans package.json a la racine du dossier serveur dans la partie file.
 

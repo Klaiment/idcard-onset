@@ -1,0 +1,113 @@
+.hidden {
+    display: none!important;
+}
+  
+@font-face {
+    font-family: "Cedarville-Cursive";
+    src: url('assets/font/Cedarville-Cursive.ttf');
+}
+@font-face{
+    font-family: "Dusty";
+    src: url('assets/font/Dusty.ttf');
+}
+
+@font-face{
+    font-family: "Monthoers";
+    src: url('assets/font/Monthoers.ttf');
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+* {
+  font-size: 20px;
+  font-family: "Monthoers", 'Open Sans', sans-serif;
+  -webkit-animation: fadein .2s; /* Safari, Chrome and Opera > 12.1 */
+     -moz-animation: fadein .2s; /* Firefox < 16 */
+      -ms-animation: fadein .2s; /* Internet Explorer */
+       -o-animation: fadein .2s; /* Opera < 12.1 */
+          animation: fadein .2s;
+}
+  
+#id-card {
+    width: 430px;
+    position: absolute;
+    bottom: 20px;
+    left: calc(50% - 200px);
+    padding-top: 30px;
+    border-radius: 12px;
+    background: transparent;
+    overflow: hidden;
+}
+  
+header {
+    border-radius: 12px 12px 0 0;
+    padding: 6px 12px;
+    background: #EF7631; /*couleur bandeau haut*/
+    color: #fff;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Dusty",Arial;
+    opacity: 0.94;  /* Opacité du haut de la carte*/
+
+}
+  
+section {
+    padding: 12px;
+    min-height: 140px;
+    background-color: #ffffff;
+    background-image: url("assets/img/onset3.png"); /* appel de l'image.*/
+    background-repeat: no-repeat;
+    background-position: center;
+    font-weight: bold;
+
+
+
+}
+
+
+
+section .image {
+    float: left;
+    margin-right: 12px;
+
+}
+  
+section svg {
+    width: 80px;
+    height: 80px;
+}
+  
+section .sign {
+    background-color: #fff;
+    font-family: "Cedarville-Cursive", Arial, sans-serif;
+    border: 1px solid #dbdbdb;
+    padding: 0 6px;
+    border-radius: 6px;
+}
+  
+footer {
+    padding: 6px 12px;
+    background: #EF7631; /*couleur bandeau bas*/
+    color: #777;
+    opacity: 0.94;  /* Opacité du bas de la carte*/
+
+}
+
+#hide {
+    cursor: pointer;
+    position: absolute;
+    font-size: 14px;
+    color: #444;
+    right: 12px;
+    top: 0;
+}
+
+.blurred { 
+    backdrop-filter: blur(2px);
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
