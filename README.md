@@ -1,21 +1,21 @@
-# Carte D'IdentitÈ Onset
+# Carte D'Identit√© Onset
 
 ## Introduction
 
 >Modification du script originale https://github.com/frederic2ec/onsetrp/tree/master/idcard
-Modification du css en majoritÈ.
-Ajout de 4 type díopacitÈ pour le background (assets\img)
-3 polices d'Ècriture sont utilisÈ dans ce package
+Modification du css en majorit√©.
+Ajout de 4 type d‚Äôopacit√© pour le background (assets\img)
+3 polices d'√©criture sont utilis√© dans ce package
 
 
 ## Code Samples
 
 > Voici a quoi ressemble le projet initial puis sur la droite la nouvelle version :
-!test https://i.ibb.co/mG5nmNW/new-CNI.png
+![screenshot](https://i.ibb.co/mG5nmNW/new-CNI.png)
 
 ## Installation
 
-> Telecharger le dÈpot et balancez le dans votre dossier serveur.
+> Telecharger le d√©pot et balancez le dans votre dossier serveur.
 si vous utilisez la base : https://github.com/frederic2ec/onsetrp
 Collez ca dans package.json a la racine du dossier serveur dans la partie file.
 
